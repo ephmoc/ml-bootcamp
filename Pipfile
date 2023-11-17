@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 jupyter = "*"
 pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+plotly = "*"
 
 [dev-packages]
 
